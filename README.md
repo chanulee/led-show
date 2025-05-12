@@ -1,7 +1,6 @@
 # ledshow
 ## 1. Description
-![Demo Gif](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/0732363a-4d78-4cc4-ad03-97fddf72b5ba.gif?ClientID=vimeo-core-prod&Date=1671912150&Signature=a08ed623c397b8eb7cf84847e0591398db7dcd16)
-- Demo: Check out [this video](https://vimeo.com/756247601) to see how it works.
+- Demo: Check out [this video](https://youtu.be/iwrKSojRMjk?feature=shared) to see how it works.
 ## 2. Features
 - Serial communication when keypressed, oF --writeByte--> Arduino
 - Get X, Y axis data from joystick(thumbslide)
